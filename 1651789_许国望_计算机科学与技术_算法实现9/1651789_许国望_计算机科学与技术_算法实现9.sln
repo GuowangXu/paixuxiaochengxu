@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1651789_许国望_计算机科学与技术_算法实现9", "1651789_许国望_计算机科学与技术_算法实现9\1651789_许国望_计算机科学与技术_算法实现9.csproj", "{CA08A1D1-6133-4D9F-87F3-245EF2F74FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA08A1D1-6133-4D9F-87F3-245EF2F74FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA08A1D1-6133-4D9F-87F3-245EF2F74FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA08A1D1-6133-4D9F-87F3-245EF2F74FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA08A1D1-6133-4D9F-87F3-245EF2F74FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD019917-68D4-40CA-91C6-B02254B4A2F0}
+	EndGlobalSection
+EndGlobal
